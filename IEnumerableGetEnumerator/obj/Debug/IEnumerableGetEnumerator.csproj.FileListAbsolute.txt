@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\bin\Debug\IEnumerableGetEnumerator.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\bin\Debug\IEnumerableGetEnumerator.exe
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\bin\Debug\IEnumerableGetEnumerator.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\obj\Debug\IEnumerableGetEnumerator.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\obj\Debug\IEnumerableGetEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\obj\Debug\IEnumerableGetEnumerator.exe
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\obj\Debug\IEnumerableGetEnumerator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\SerializationB.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\SerializationB.exe
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\SerializationB.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.exe
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.pdb

@@ -1,0 +1,2 @@
+C:\Users\Howard\source\repos\ConsoleApp3\genericList\obj\Debug\genericList.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\genericList\obj\Debug\genericList.csproj.CoreCompileInputs.cache

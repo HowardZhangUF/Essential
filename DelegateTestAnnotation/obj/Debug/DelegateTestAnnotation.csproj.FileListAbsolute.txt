@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateTestAnnotation\bin\Debug\DelegateTestAnnotation.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateTestAnnotation\bin\Debug\DelegateTestAnnotation.exe
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateTestAnnotation\bin\Debug\DelegateTestAnnotation.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateTestAnnotation\obj\Debug\DelegateTestAnnotation.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateTestAnnotation\obj\Debug\DelegateTestAnnotation.exe
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateTestAnnotation\obj\Debug\DelegateTestAnnotation.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateTestAnnotation\obj\Debug\DelegateTestAnnotation.csproj.AssemblyReference.cache
