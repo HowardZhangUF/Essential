@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\Nullable\bin\Debug\Nullable.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\Nullable\bin\Debug\Nullable.exe
+C:\Users\Howard\source\repos\ConsoleApp3\Nullable\bin\Debug\Nullable.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Nullable\obj\Debug\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Nullable\obj\Debug\Nullable.exe
+C:\Users\Howard\source\repos\ConsoleApp3\Nullable\obj\Debug\Nullable.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Nullable\obj\Debug\Nullable.csproj.AssemblyReference.cache

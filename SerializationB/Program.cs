@@ -35,7 +35,7 @@ namespace TestBinarySerialization
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("============驗證還原序列化物件===============");
+            
             Program oProgram = new Program();
             oProgram.SerializeBinary();
             ClsSerializable o = oProgram.DeSerialize();
