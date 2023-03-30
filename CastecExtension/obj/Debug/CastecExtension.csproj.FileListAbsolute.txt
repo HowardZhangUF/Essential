@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\CastecExtension\bin\Debug\CastecExtension.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\CastecExtension\bin\Debug\CastecExtension.exe
+C:\Users\Howard\source\repos\ConsoleApp3\CastecExtension\bin\Debug\CastecExtension.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\CastecExtension\obj\Debug\CastecExtension.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\CastecExtension\obj\Debug\CastecExtension.exe
+C:\Users\Howard\source\repos\ConsoleApp3\CastecExtension\obj\Debug\CastecExtension.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\CastecExtension\obj\Debug\CastecExtension.csproj.AssemblyReference.cache

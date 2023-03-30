@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\Indexer\bin\Debug\Indexer.exe
+C:\Users\Howard\source\repos\ConsoleApp3\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Indexer\obj\Debug\Indexer.exe
+C:\Users\Howard\source\repos\ConsoleApp3\Indexer\obj\Debug\Indexer.pdb

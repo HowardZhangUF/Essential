@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\PointTest\bin\Debug\PointTest.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\PointTest\bin\Debug\PointTest.exe
+C:\Users\Howard\source\repos\ConsoleApp3\PointTest\bin\Debug\PointTest.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\PointTest\obj\Debug\PointTest.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\PointTest\obj\Debug\PointTest.exe
+C:\Users\Howard\source\repos\ConsoleApp3\PointTest\obj\Debug\PointTest.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\PointTest\obj\Debug\PointTest.csproj.AssemblyReference.cache

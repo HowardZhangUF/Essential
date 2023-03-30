@@ -1,0 +1,10 @@
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\obj\Debug\JasonSerialize.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\obj\Debug\JasonSerialize.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\bin\Debug\JasonSerialize.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\bin\Debug\JasonSerialize.exe
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\bin\Debug\JasonSerialize.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\obj\Debug\JasonSerialize.csproj.CopyComplete
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\obj\Debug\JasonSerialize.exe
+C:\Users\Howard\source\repos\ConsoleApp3\JasonSerialize\obj\Debug\JasonSerialize.pdb

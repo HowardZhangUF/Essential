@@ -1,0 +1,2 @@
+C:\Users\Howard\source\repos\ConsoleApp3\ExtentsionMethod\obj\Debug\ExtentsionMethod.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\ExtentsionMethod\obj\Debug\ExtentsionMethod.csproj.CoreCompileInputs.cache

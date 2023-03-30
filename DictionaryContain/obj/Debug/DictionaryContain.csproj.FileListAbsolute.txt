@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryContain\obj\Debug\DictionaryContain.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryContain\obj\Debug\DictionaryContain.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryContain\bin\Debug\DictionaryContain.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryContain\bin\Debug\DictionaryContain.exe
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryContain\bin\Debug\DictionaryContain.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryContain\obj\Debug\DictionaryContain.exe
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryContain\obj\Debug\DictionaryContain.pdb

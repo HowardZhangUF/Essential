@@ -5,3 +5,12 @@ C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB
 C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.csproj.CoreCompileInputs.cache
 C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.exe
 C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\System.Text.Json.dll
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\System.Memory.dll
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\System.Buffers.dll
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.csproj.CopyComplete

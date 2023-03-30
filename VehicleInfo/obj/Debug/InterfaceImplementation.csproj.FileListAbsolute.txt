@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\VehicleInfo\bin\Debug\VehicleInfo.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\VehicleInfo\bin\Debug\VehicleInfo.exe
+C:\Users\Howard\source\repos\ConsoleApp3\VehicleInfo\bin\Debug\VehicleInfo.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\VehicleInfo\obj\Debug\InterfaceImplementation.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\VehicleInfo\obj\Debug\InterfaceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\VehicleInfo\obj\Debug\VehicleInfo.exe
+C:\Users\Howard\source\repos\ConsoleApp3\VehicleInfo\obj\Debug\VehicleInfo.pdb

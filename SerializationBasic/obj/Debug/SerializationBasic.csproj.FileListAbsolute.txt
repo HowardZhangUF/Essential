@@ -1,0 +1,2 @@
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationBasic\obj\Debug\SerializationBasic.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationBasic\obj\Debug\SerializationBasic.csproj.CoreCompileInputs.cache

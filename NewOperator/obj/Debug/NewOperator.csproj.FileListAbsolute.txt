@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\NewOperator\obj\Debug\NewOperator.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\NewOperator\obj\Debug\NewOperator.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\NewOperator\bin\Debug\NewOperator.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\NewOperator\bin\Debug\NewOperator.exe
+C:\Users\Howard\source\repos\ConsoleApp3\NewOperator\bin\Debug\NewOperator.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\NewOperator\obj\Debug\NewOperator.exe
+C:\Users\Howard\source\repos\ConsoleApp3\NewOperator\obj\Debug\NewOperator.pdb
