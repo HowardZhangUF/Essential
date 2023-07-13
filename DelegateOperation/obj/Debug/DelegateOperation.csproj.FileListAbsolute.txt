@@ -1,7 +1,8 @@
 C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\bin\Debug\DelegateOperation.exe.config
 C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\bin\Debug\DelegateOperation.exe
 C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\bin\Debug\DelegateOperation.pdb
-C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\obj\Debug\DelegateOperation.csproj.AssemblyReference.cache
 C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\obj\Debug\DelegateOperation.csproj.CoreCompileInputs.cache
 C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\obj\Debug\DelegateOperation.exe
 C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\obj\Debug\DelegateOperation.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\bin\Debug\DelegateOperation.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\DelegateOperation\bin\Debug\DelegateOperation.exe.lastcodeanalysissucceeded

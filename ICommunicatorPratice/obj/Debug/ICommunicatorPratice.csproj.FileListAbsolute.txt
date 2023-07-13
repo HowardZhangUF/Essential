@@ -1,0 +1,2 @@
+C:\Users\Howard\source\repos\ConsoleApp3\ICommunicatorPratice\obj\Debug\ICommunicatorPratice.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\ICommunicatorPratice\obj\Debug\ICommunicatorPratice.csproj.AssemblyReference.cache

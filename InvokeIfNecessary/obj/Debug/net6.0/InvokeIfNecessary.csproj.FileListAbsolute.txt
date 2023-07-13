@@ -1,0 +1,15 @@
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\bin\Debug\net6.0\InvokeIfNecessary.exe
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\bin\Debug\net6.0\InvokeIfNecessary.deps.json
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\bin\Debug\net6.0\InvokeIfNecessary.runtimeconfig.json
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\bin\Debug\net6.0\InvokeIfNecessary.dll
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\bin\Debug\net6.0\InvokeIfNecessary.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\InvokeIfNecessary.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\InvokeIfNecessary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\InvokeIfNecessary.AssemblyInfoInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\InvokeIfNecessary.AssemblyInfo.cs
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\InvokeIfNecessary.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\InvokeIfNecessary.dll
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\refint\InvokeIfNecessary.dll
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\InvokeIfNecessary.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\InvokeIfNecessary.genruntimeconfig.cache
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeIfNecessary\obj\Debug\net6.0\ref\InvokeIfNecessary.dll

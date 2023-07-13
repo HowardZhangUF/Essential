@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\IDisposable1\bin\Debug\IDisposable1.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\IDisposable1\bin\Debug\IDisposable1.exe
+C:\Users\Howard\source\repos\ConsoleApp3\IDisposable1\bin\Debug\IDisposable1.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\IDisposable1\obj\Debug\IDisposable1.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\IDisposable1\obj\Debug\IDisposable1.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\IDisposable1\obj\Debug\IDisposable1.exe
+C:\Users\Howard\source\repos\ConsoleApp3\IDisposable1\obj\Debug\IDisposable1.pdb

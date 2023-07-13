@@ -17,6 +17,14 @@ namespace VehicleInfo
             
         }
     }
+    interface IAnimal
+    {
+        string color { get; set; }
+        string type { get; set; }
+        void sound();
+
+
+    }
     interface IA
     {
         int point { get; set; }
@@ -28,6 +36,19 @@ namespace VehicleInfo
         int teacher { get; set; }
         int student { get; set; }
     }
+
+    public class Dog : IAnimal
+    {
+        string type { get;}
+        string color = "yellow";
+        string action = "sprint";
+        public void sound()
+        {
+            Console.WriteLine("wanwan");
+        }
+
+    }
+
     public class All : IA, IB
     {
 

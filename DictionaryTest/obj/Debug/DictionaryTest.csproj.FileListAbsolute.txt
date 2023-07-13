@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryTest\bin\Debug\DictionaryTest.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryTest\bin\Debug\DictionaryTest.exe
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryTest\bin\Debug\DictionaryTest.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryTest\obj\Debug\DictionaryTest.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryTest\obj\Debug\DictionaryTest.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryTest\obj\Debug\DictionaryTest.exe
+C:\Users\Howard\source\repos\ConsoleApp3\DictionaryTest\obj\Debug\DictionaryTest.pdb

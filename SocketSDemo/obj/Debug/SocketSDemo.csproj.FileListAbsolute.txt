@@ -1,0 +1,8 @@
+C:\Users\Howard\source\repos\ConsoleApp3\SocketSDemo\bin\Debug\SocketSDemo.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\SocketSDemo\bin\Debug\SocketSDemo.exe
+C:\Users\Howard\source\repos\ConsoleApp3\SocketSDemo\bin\Debug\SocketSDemo.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\SocketSDemo\obj\Debug\SocketSDemo.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\SocketSDemo\obj\Debug\SocketSDemo.exe
+C:\Users\Howard\source\repos\ConsoleApp3\SocketSDemo\obj\Debug\SocketSDemo.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\SocketSDemo\bin\Debug\SocketSDemo.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\SocketSDemo\bin\Debug\SocketSDemo.exe.lastcodeanalysissucceeded

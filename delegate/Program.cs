@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace p
-
 {
     /*public class Circle
     {
@@ -46,11 +45,16 @@ namespace p
     }*/
 
 
+    
+
+
+
 
 
     class Program
     {
-        static void Main(string[] args)
+
+        public static void Main(string[] args)
         {
             /* Circle circle1 = new Circle(3.0f);//輸出: 靜態建構函式-啟動   建構函式-啟動
              Circle circle2 = new Circle(5);//輸出:  建構函式-啟動
@@ -59,6 +63,22 @@ namespace p
              Console.WriteLine(circle2.getArea());*/
             var je = new Account();
             var me = new Account();
+
+            var how = new List<string> {"apple","banana","babo","noeq" };
+            string prindex = "b";
+            bool howb = how.Any(f=>f.StartsWith(prindex));
+
+            List<string> fruits = new List<string> { "apple", "banana", "cherry", "pear" };
+            string prefix = "b";
+            bool hasPrefix = fruits.Any(f => f.StartsWith(prefix));
+            Console.WriteLine(hasPrefix); // Output: True
+
+
+            var list = new List<string>() { "ASUS", "Acer", "BenQ", "Toshiba", "IBM", "HP", "Dell" };
+            var emptyList = new List<string>() { };
+            Console.WriteLine(list.Any());
+            Console.WriteLine(emptyList.Any());
+
             je.Money += 10;
             me.Money -= 10;
             je.Age = 18;
@@ -78,8 +98,8 @@ namespace p
         private static int Scount;
         public int Money
         {
-            get => _money;
-            set => _money = value;
+            get => Money;
+            set => Money = value;
         }
         public int Age { get; set;}
 

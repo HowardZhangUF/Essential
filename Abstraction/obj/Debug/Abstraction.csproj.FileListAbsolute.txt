@@ -5,3 +5,5 @@ C:\Users\Howard\source\repos\ConsoleApp3\Abstraction\obj\Debug\Abstraction.cspro
 C:\Users\Howard\source\repos\ConsoleApp3\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
 C:\Users\Howard\source\repos\ConsoleApp3\Abstraction\obj\Debug\Abstraction.exe
 C:\Users\Howard\source\repos\ConsoleApp3\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Abstraction\bin\Debug\Abstraction.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\Abstraction\bin\Debug\Abstraction.exe.lastcodeanalysissucceeded

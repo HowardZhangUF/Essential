@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\TestAny\bin\Debug\TestAny.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\TestAny\bin\Debug\TestAny.exe
+C:\Users\Howard\source\repos\ConsoleApp3\TestAny\bin\Debug\TestAny.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\TestAny\obj\Debug\TestAny.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\TestAny\obj\Debug\TestAny.exe
+C:\Users\Howard\source\repos\ConsoleApp3\TestAny\obj\Debug\TestAny.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\TestAny\obj\Debug\TestAny.csproj.AssemblyReference.cache

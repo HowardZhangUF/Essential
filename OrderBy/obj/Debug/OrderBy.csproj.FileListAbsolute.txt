@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\OrderBy\bin\Debug\OrderBy.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\OrderBy\bin\Debug\OrderBy.exe
+C:\Users\Howard\source\repos\ConsoleApp3\OrderBy\bin\Debug\OrderBy.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\OrderBy\obj\Debug\OrderBy.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\OrderBy\obj\Debug\OrderBy.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\OrderBy\obj\Debug\OrderBy.exe
+C:\Users\Howard\source\repos\ConsoleApp3\OrderBy\obj\Debug\OrderBy.pdb

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Namespaces>
+  <Namespace Name="Listing12_02">
+   <Messages>
+    <Message TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="Breaking">
+     <Issue Name="Namespace" Certainty="95" Level="Error">移除命名空間名稱 'Listing12_02' 中的底線。</Issue>
+    </Message>
+   </Messages>
+  </Namespace>
+ </Namespaces>
+ <Targets>
+  <Target Name="C:\Users\Howard\source\repos\ConsoleApp3\Undo\bin\Debug\Undo.exe">
+   <Modules>
+    <Module Name="undo.exe">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">以強式名稱金鑰簽署 'Undo.exe'。</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Error">以 CLSCompliant(true) 標記 'Undo.exe'，因為它可以公開外部可見的類型。</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="Listing12_02">
+       <Types>
+        <Type Name="Cell" Kind="Struct" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="OverrideEqualsAndOperatorEqualsOnValueTypes" Category="Microsoft.Performance" CheckId="CA1815" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="NonBreaking">
+           <Issue Name="Equals" Certainty="75" Level="Warning">'Cell' 必須覆寫 Equals。</Issue>
+           <Issue Name="op_Equality" Certainty="75" Level="Warning">'Cell' 必須覆寫等號比較運算子 (==) 和不等比較運算子 (!=)。</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#.ctor(System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="x" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="Breaking">
+             <Issue Name="MemberParameterMoreMeaningfulName" Certainty="75" Level="CriticalWarning" Path="C:\Users\Howard\source\repos\ConsoleApp3\Undo" File="Program.cs" Line="146">在方法 'Cell.Cell(int, int)' 中，請考慮提供比參數名稱 'x' 更有意義的名稱。</Issue>
+            </Message>
+            <Message Id="y" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="Breaking">
+             <Issue Name="MemberParameterMoreMeaningfulName" Certainty="75" Level="CriticalWarning" Path="C:\Users\Howard\source\repos\ConsoleApp3\Undo" File="Program.cs" Line="146">在方法 'Cell.Cell(int, int)' 中，請考慮提供比參數名稱 'y' 更有意義的名稱。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#X" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="X" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="Breaking">
+             <Issue Name="MemberMoreMeaningfulName" Certainty="75" Level="CriticalWarning" Path="C:\Users\Howard\source\repos\ConsoleApp3\Undo" File="Program.cs" Line="142">請考慮提供比成員名稱 'Cell.X' 更有意義的名稱。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Y" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Y" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="Breaking">
+             <Issue Name="MemberMoreMeaningfulName" Certainty="75" Level="CriticalWarning" Path="C:\Users\Howard\source\repos\ConsoleApp3\Undo" File="Program.cs" Line="143">請考慮提供比成員名稱 'Cell.Y' 更有意義的名稱。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Program" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="StaticHolderTypesShouldNotHaveConstructors" Category="Microsoft.Design" CheckId="CA1053" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="Breaking">
+           <Issue Name="CSharp2_0" Certainty="90" Level="Error">因為類型 'Program' 只包含 'static' 成員，將它標記為 'static' 可防止編譯器加入預設的公用建構函式。</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#Sketch()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.Console.WriteLine(System.String)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2023-04-15 11:38:35Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Howard\source\repos\ConsoleApp3\Undo" File="Program.cs" Line="24">方法 'Program.Sketch()' 在呼叫 'Console.WriteLine(string)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "Use arrow keys to draw. X to exit."。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>組件應該具備有效的強式名稱</Name>
+   <Description>可能是組件不具有強式名稱、強式名稱無效，或是強式名稱視個別電腦的組態設定而生效。組件不應該部署為目前這種狀態。這樣的情況最常見的原因為: 1) 組件的內容於簽署後經過修改。2) 簽署程序失敗。3) 組件為延遲簽署。4) 已存在的登錄機碼允許檢查通過 (否則檢查不應通過)。</Description>
+   <Resolution Name="NoStrongName">以強式名稱金鑰簽署 {0}。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704">
+   <Name>識別項應該使用正確的拼字</Name>
+   <Description>組成識別項的個別字不應該為縮寫，且拼字應該正確。如果此規則對於應該識別的詞彙產生誤報，請將該字加入至 FxCop 自訂字典。</Description>
+   <Resolution Name="MemberMoreMeaningfulName">請考慮提供比成員名稱 {0} 更有意義的名稱。</Resolution>
+   <Resolution Name="MemberParameterMoreMeaningfulName">在方法 {0} 中，請考慮提供比參數名稱 {1} 更有意義的名稱。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb264492.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">CriticalWarning</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707">
+   <Name>識別項名稱不應該包含底線</Name>
+   <Description>指定識別項時請勿使用底線。某些針對應用程式產生的 Visual Studio 識別項會包含底線字元。一般來說，在公用識別項中應該避免使用底線字元。</Description>
+   <Resolution Name="Namespace">移除命名空間名稱 '{0}' 中的底線。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182245.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>組件必須標記 CLSCompliantAttribute</Name>
+   <Description>組件應該使用 CLSCompliant 屬性明確陳述其 CLS 標準的合規性。沒有此屬性的組件即不符合 CLS 規範。即使組件、模組或類型的某些部分不符合 CLS 規範，該組件、模組和類型本身仍可符合 CLS 規範。下列為適用規則: 1) 如果項目標記成 CLSCompliant，則任何不符合規範的成員都必須擁有 CLSCompliant 屬性，且其引數設為 false。2) 針對每個不符合 CLS 規範的成員，均須提供相當於符合 CLS 規範的替代成員。</Description>
+   <Resolution Name="Default">以 CLSCompliant(true) 標記 {0}，因為它可以公開外部可見的類型。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182156.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="OverrideEqualsAndOperatorEqualsOnValueTypes" Category="Microsoft.Performance" CheckId="CA1815">
+   <Name>必須覆寫實值類型上的 Equals 方法和等號比較運算子</Name>
+   <Description>預設的 System.ValueType 實作可能無法如自訂實作般執行。</Description>
+   <Resolution Name="Equals">{0} 必須覆寫 Equals。</Resolution>
+   <Resolution Name="op_Equality">{0} 必須覆寫等號比較運算子 (==) 和不等比較運算子 (!=)。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182276.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="StaticHolderTypesShouldNotHaveConstructors" Category="Microsoft.Design" CheckId="CA1053">
+   <Name>靜態預留位置類型不應該包含建構函式</Name>
+   <Description>不需要建立僅定義靜態成員的類型執行個體。如果未指定任何建構函式，許多編譯器會自動加入公用預設建構函式。若要避免此情況，可能需要加入空的私用建構函式。</Description>
+   <Resolution Name="CSharp2_0">因為類型 {0} 只包含 'static' 成員，將它標記為 'static' 可防止編譯器加入預設的公用建構函式。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182169.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>不要將常值當做已當地語系化的參數傳遞</Name>
+   <Description>內嵌在原始程式碼中的常值字串不容易本地語系化。請避免在一般需要本地語系化字串的情況傳遞常值字串做為引數。</Description>
+   <Resolution Name="KnownValue">方法 {0} 在呼叫 {2} 時傳遞常值字串做為參數 '{1}'。改為從資源表格擷取下列字串: {3}。</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182187.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="16.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">分類</String>
+  <String Key="Certainty">確實性</String>
+  <String Key="CollapseAll">全部摺疊</String>
+  <String Key="CheckId">檢查 ID</String>
+  <String Key="Error">錯誤</String>
+  <String Key="Errors">錯誤</String>
+  <String Key="ExpandAll">全部展開</String>
+  <String Key="Help">說明</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">訊息</String>
+  <String Key="LocationNotStoredInPdb">[位置未儲存在 PDB]</String>
+  <String Key="Project">專案</String>
+  <String Key="Resolution">解析度</String>
+  <String Key="Rule">規則</String>
+  <String Key="RuleFile">規則檔</String>
+  <String Key="RuleDescription">規則說明</String>
+  <String Key="Source">來源</String>
+  <String Key="Status">狀態</String>
+  <String Key="Target">目標</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">Code Analysis 報告</String>
+ </Localized>
+</FxCopReport>

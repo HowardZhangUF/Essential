@@ -1,0 +1,9 @@
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.lastcodeanalysissucceeded
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\LinqOperation.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\LinqOperation.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

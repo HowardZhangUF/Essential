@@ -9,7 +9,7 @@ namespace ConsoleApplication1
             Counter c = new Counter(5);
             c.ThresholdReached += c_ThresholdReached;
             c.ThresholdReached += C_ThresholdReached;
-            //方法加入事件
+            //方法加入事件(此處可以查看方法加入事件的幾種形式)
             //以publisher: Counter 建置的c物件
             //事件(函數指標)
 

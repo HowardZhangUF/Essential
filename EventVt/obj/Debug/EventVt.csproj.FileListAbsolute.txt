@@ -1,7 +1,8 @@
 C:\Users\Howard\source\repos\ConsoleApp3\EventVt\bin\Debug\EventVt.exe.config
 C:\Users\Howard\source\repos\ConsoleApp3\EventVt\bin\Debug\EventVt.exe
 C:\Users\Howard\source\repos\ConsoleApp3\EventVt\bin\Debug\EventVt.pdb
-C:\Users\Howard\source\repos\ConsoleApp3\EventVt\obj\Debug\EventVt.csproj.AssemblyReference.cache
 C:\Users\Howard\source\repos\ConsoleApp3\EventVt\obj\Debug\EventVt.csproj.CoreCompileInputs.cache
 C:\Users\Howard\source\repos\ConsoleApp3\EventVt\obj\Debug\EventVt.exe
 C:\Users\Howard\source\repos\ConsoleApp3\EventVt\obj\Debug\EventVt.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\EventVt\bin\Debug\EventVt.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\EventVt\bin\Debug\EventVt.exe.lastcodeanalysissucceeded

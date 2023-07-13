@@ -1,0 +1,8 @@
+C:\Users\Howard\source\repos\ConsoleApp3\TcpEchoServer\bin\Debug\TcpEchoServer.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\TcpEchoServer\bin\Debug\TcpEchoServer.exe
+C:\Users\Howard\source\repos\ConsoleApp3\TcpEchoServer\bin\Debug\TcpEchoServer.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\TcpEchoServer\bin\Debug\TcpEchoServer.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\TcpEchoServer\bin\Debug\TcpEchoServer.exe.lastcodeanalysissucceeded
+C:\Users\Howard\source\repos\ConsoleApp3\TcpEchoServer\obj\Debug\TcpEchoServer.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\TcpEchoServer\obj\Debug\TcpEchoServer.exe
+C:\Users\Howard\source\repos\ConsoleApp3\TcpEchoServer\obj\Debug\TcpEchoServer.pdb

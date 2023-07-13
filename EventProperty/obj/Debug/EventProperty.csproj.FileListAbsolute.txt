@@ -1,0 +1,8 @@
+C:\Users\Howard\source\repos\ConsoleApp3\EventProperty\obj\Debug\EventProperty.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\EventProperty\bin\Debug\EventProperty.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\EventProperty\bin\Debug\EventProperty.exe
+C:\Users\Howard\source\repos\ConsoleApp3\EventProperty\bin\Debug\EventProperty.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\EventProperty\obj\Debug\EventProperty.exe
+C:\Users\Howard\source\repos\ConsoleApp3\EventProperty\obj\Debug\EventProperty.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\EventProperty\obj\Debug\EventProperty.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\EventProperty\obj\Debug\EventProperty.csproj.SuggestedBindingRedirects.cache

@@ -16,3 +16,5 @@ C:\Users\Howard\source\repos\ConsoleApp3\TypeTest\bin\Debug\AsyncSocket.pdb
 C:\Users\Howard\source\repos\ConsoleApp3\TypeTest\bin\Debug\WaitTask.pdb
 C:\Users\Howard\source\repos\ConsoleApp3\TypeTest\bin\Debug\LogManager.pdb
 C:\Users\Howard\source\repos\ConsoleApp3\TypeTest\obj\Debug\TypeTest.csproj.CopyComplete
+C:\Users\Howard\source\repos\ConsoleApp3\TypeTest\bin\Debug\TypeTest.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\TypeTest\bin\Debug\TypeTest.exe.lastcodeanalysissucceeded

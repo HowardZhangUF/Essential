@@ -1,0 +1,8 @@
+C:\Users\Howard\source\repos\ConsoleApp3\CovarienceTest\bin\Debug\CovarienceTest.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\CovarienceTest\bin\Debug\CovarienceTest.exe
+C:\Users\Howard\source\repos\ConsoleApp3\CovarienceTest\bin\Debug\CovarienceTest.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\CovarienceTest\obj\Debug\CovarienceTest.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\CovarienceTest\obj\Debug\CovarienceTest.exe
+C:\Users\Howard\source\repos\ConsoleApp3\CovarienceTest\obj\Debug\CovarienceTest.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\CovarienceTest\bin\Debug\CovarienceTest.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\CovarienceTest\bin\Debug\CovarienceTest.exe.lastcodeanalysissucceeded

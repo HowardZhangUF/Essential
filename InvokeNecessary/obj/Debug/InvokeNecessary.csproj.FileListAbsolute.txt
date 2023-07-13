@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeNecessary\obj\Debug\InvokeNecessary.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeNecessary\obj\Debug\InvokeNecessary.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeNecessary\bin\Debug\InvokeNecessary.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeNecessary\bin\Debug\InvokeNecessary.exe
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeNecessary\bin\Debug\InvokeNecessary.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeNecessary\obj\Debug\InvokeNecessary.exe
+C:\Users\Howard\source\repos\ConsoleApp3\InvokeNecessary\obj\Debug\InvokeNecessary.pdb

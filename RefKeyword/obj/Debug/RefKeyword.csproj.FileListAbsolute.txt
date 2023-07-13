@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\RefKeyword\obj\Debug\RefKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\RefKeyword\bin\Debug\RefKeyword.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\RefKeyword\bin\Debug\RefKeyword.exe
+C:\Users\Howard\source\repos\ConsoleApp3\RefKeyword\bin\Debug\RefKeyword.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\RefKeyword\obj\Debug\RefKeyword.exe
+C:\Users\Howard\source\repos\ConsoleApp3\RefKeyword\obj\Debug\RefKeyword.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\RefKeyword\obj\Debug\RefKeyword.csproj.AssemblyReference.cache

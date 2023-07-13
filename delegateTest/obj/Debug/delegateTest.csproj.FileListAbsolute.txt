@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\delegateTest\bin\Debug\delegateTest.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\delegateTest\bin\Debug\delegateTest.exe
+C:\Users\Howard\source\repos\ConsoleApp3\delegateTest\bin\Debug\delegateTest.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\delegateTest\obj\Debug\delegateTest.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\delegateTest\obj\Debug\delegateTest.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\delegateTest\obj\Debug\delegateTest.exe
+C:\Users\Howard\source\repos\ConsoleApp3\delegateTest\obj\Debug\delegateTest.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Targets>
+  <Target Name="C:\Users\Howard\source\repos\ConsoleApp3\TypeTest\bin\Debug\TypeTest.exe">
+   <Modules>
+    <Module Name="typetest.exe">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2023-04-15 11:38:19Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">以強式名稱金鑰簽署 'TypeTest.exe'。</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="TypeTest">
+       <Types>
+        <Type Name="Program" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#a" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2023-04-15 11:38:19Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">欄位 'Program.a' 可能從未被使用或僅經過指派。請使用這個欄位或將它移除。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#mPreviousTarget" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2023-04-15 11:38:19Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">欄位 'Program.mPreviousTarget' 可能從未被使用或僅經過指派。請使用這個欄位或將它移除。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#result" Kind="Field" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2023-04-15 11:38:19Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">欄位 'Program.result' 可能從未被使用或僅經過指派。請使用這個欄位或將它移除。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#s" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823" Status="Active" Created="2023-04-15 11:38:19Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning">欄位 'Program.s' 可能從未被使用或僅經過指派。請使用這個欄位或將它移除。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>組件應該具備有效的強式名稱</Name>
+   <Description>可能是組件不具有強式名稱、強式名稱無效，或是強式名稱視個別電腦的組態設定而生效。組件不應該部署為目前這種狀態。這樣的情況最常見的原因為: 1) 組件的內容於簽署後經過修改。2) 簽署程序失敗。3) 組件為延遲簽署。4) 已存在的登錄機碼允許檢查通過 (否則檢查不應通過)。</Description>
+   <Resolution Name="NoStrongName">以強式名稱金鑰簽署 {0}。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidUnusedPrivateFields" Category="Microsoft.Performance" CheckId="CA1823">
+   <Name>避免包含未使用的私用欄位</Name>
+   <Description>偵測到可能無法在組件內存取的私用欄位。如果此違規引發錯誤，請傳送問題報告給 Visual Studio Code Analysis 小組。</Description>
+   <Resolution Name="Default">欄位 {0} 可能從未被使用或僅經過指派。請使用這個欄位或將它移除。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms245042.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="16.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">分類</String>
+  <String Key="Certainty">確實性</String>
+  <String Key="CollapseAll">全部摺疊</String>
+  <String Key="CheckId">檢查 ID</String>
+  <String Key="Error">錯誤</String>
+  <String Key="Errors">錯誤</String>
+  <String Key="ExpandAll">全部展開</String>
+  <String Key="Help">說明</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">訊息</String>
+  <String Key="LocationNotStoredInPdb">[位置未儲存在 PDB]</String>
+  <String Key="Project">專案</String>
+  <String Key="Resolution">解析度</String>
+  <String Key="Rule">規則</String>
+  <String Key="RuleFile">規則檔</String>
+  <String Key="RuleDescription">規則說明</String>
+  <String Key="Source">來源</String>
+  <String Key="Status">狀態</String>
+  <String Key="Target">目標</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">Code Analysis 報告</String>
+ </Localized>
+</FxCopReport>

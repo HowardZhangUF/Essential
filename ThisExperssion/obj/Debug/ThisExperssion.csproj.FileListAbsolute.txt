@@ -5,3 +5,5 @@ C:\Users\Howard\source\repos\ConsoleApp3\ThisExperssion\obj\Debug\ThisExperssion
 C:\Users\Howard\source\repos\ConsoleApp3\ThisExperssion\obj\Debug\ThisExperssion.csproj.CoreCompileInputs.cache
 C:\Users\Howard\source\repos\ConsoleApp3\ThisExperssion\obj\Debug\ThisExperssion.exe
 C:\Users\Howard\source\repos\ConsoleApp3\ThisExperssion\obj\Debug\ThisExperssion.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\ThisExperssion\bin\Debug\ThisExperssion.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\ThisExperssion\bin\Debug\ThisExperssion.exe.lastcodeanalysissucceeded

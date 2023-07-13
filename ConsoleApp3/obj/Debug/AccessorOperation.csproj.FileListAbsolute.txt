@@ -1,0 +1,8 @@
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AccessorOperation.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AccessorOperation.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AccessorOperation.csproj.SuggestedBindingRedirects.cache

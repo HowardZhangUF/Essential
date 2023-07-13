@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\OutCovarience\bin\Debug\OutCovarience.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\OutCovarience\bin\Debug\OutCovarience.exe
+C:\Users\Howard\source\repos\ConsoleApp3\OutCovarience\bin\Debug\OutCovarience.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\OutCovarience\obj\Debug\OutCovarience.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\OutCovarience\obj\Debug\OutCovarience.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\OutCovarience\obj\Debug\OutCovarience.exe
+C:\Users\Howard\source\repos\ConsoleApp3\OutCovarience\obj\Debug\OutCovarience.pdb

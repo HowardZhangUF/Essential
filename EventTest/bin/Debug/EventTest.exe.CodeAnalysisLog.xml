@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Targets>
+  <Target Name="C:\Users\Howard\source\repos\ConsoleApp3\EventTest\bin\Debug\EventTest.exe">
+   <Modules>
+    <Module Name="eventtest.exe">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">以強式名稱金鑰簽署 'EventTest.exe'。</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Error">以 CLSCompliant(true) 標記 'EventTest.exe'，因為它可以公開外部可見的類型。</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="Notify" Kind="Delegate" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">'Notify' 應該在命名空間內宣告。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="ProcessBusinessLogic" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">'ProcessBusinessLogic' 應該在命名空間內宣告。</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#StartProcess()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.Console.WriteLine(System.String)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Howard\source\repos\ConsoleApp3\EventTest" File="Program.cs" Line="28">方法 'ProcessBusinessLogic.StartProcess()' 在呼叫 'Console.WriteLine(string)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "Process Started!"。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ProcessCompleted" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="Breaking">
+             <Issue Name="First" Certainty="95" Level="Error">將 'Notify' 的第一個參數宣告為名為 'sender' 的物件。</Issue>
+             <Issue Name="Second" Certainty="95" Level="Error">將 'Notify' 的第二個參數宣告為 EventArgs，或宣告為可擴充 EventArgs 且名為 'e' 的類型執行個體。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Program" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">'Program' 應該在命名空間內宣告。</Issue>
+          </Message>
+          <Message TypeName="StaticHolderTypesShouldNotHaveConstructors" Category="Microsoft.Design" CheckId="CA1053" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="Breaking">
+           <Issue Name="CSharp2_0" Certainty="90" Level="Error">因為類型 'Program' 只包含 'static' 成員，將它標記為 'static' 可防止編譯器加入預設的公用建構函式。</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#bl_ProcessCompleted()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="bl" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error" Path="C:\Users\Howard\source\repos\ConsoleApp3\EventTest" File="Program.cs" Line="14">將成員名稱 'Program.bl_ProcessCompleted()' 中的 'bl' 變更成 'BL'，藉此修正其大小寫。</Issue>
+            </Message>
+            <Message TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="95" Level="Error" Path="C:\Users\Howard\source\repos\ConsoleApp3\EventTest" File="Program.cs" Line="14">移除成員名稱 'Program.bl_ProcessCompleted()' 中的底線。</Issue>
+            </Message>
+            <Message Id="System.Console.WriteLine(System.String)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Howard\source\repos\ConsoleApp3\EventTest" File="Program.cs" Line="15">方法 'Program.bl_ProcessCompleted()' 在呼叫 'Console.WriteLine(string)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "Process Completed!"。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>組件應該具備有效的強式名稱</Name>
+   <Description>可能是組件不具有強式名稱、強式名稱無效，或是強式名稱視個別電腦的組態設定而生效。組件不應該部署為目前這種狀態。這樣的情況最常見的原因為: 1) 組件的內容於簽署後經過修改。2) 簽署程序失敗。3) 組件為延遲簽署。4) 已存在的登錄機碼允許檢查通過 (否則檢查不應通過)。</Description>
+   <Resolution Name="NoStrongName">以強式名稱金鑰簽署 {0}。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009">
+   <Name>事件處理常式必須正確宣告</Name>
+   <Description>根據慣例，.NET 事件擁有兩個參數，分別用於指定事件傳送者和事件資料。事件處理常式簽章的格式應為: void MyEventHandler(object sender, EventArgs e)。即使可以採用更特殊的類型，'sender' 參數仍固定為 System.Object 類型。'e' 參數固定為 System.EventArgs 類型。不提供事件資料的事件應使用 System.EventHandler 委派類型。事件處理常式會傳回 void，如此才能將各事件傳送給多個目標方法。目標傳回的任何值都會在第一次呼叫之後遺失。</Description>
+   <Resolution Name="First">將 {0} 的第一個參數宣告為名為 'sender' 的物件。</Resolution>
+   <Resolution Name="Second">將 {0} 的第二個參數宣告為 EventArgs，或宣告為可擴充 EventArgs 且名為 'e' 的類型執行個體。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182133.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050">
+   <Name>類型必須在命名空間中宣告</Name>
+   <Description>類型應該在命名空間內定義，以避免重複。</Description>
+   <Resolution Name="Default">{0} 應該在命名空間內宣告。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182134.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709">
+   <Name>識別項名稱應該使用正確的大小寫</Name>
+   <Description>類型、命名空間和成員識別項都是依照 Pascal 命名法的大小寫慣例。參數識別項則都是依照 Camel 命名法的大小寫慣例。這些識別項內兩個字母的縮略字應該使用大寫，例如應該使用 System.IO 而非 System.Io。三個字母以上的縮略字則應該依照 Pascal 命名法的大小寫慣例，例如應該使用 System.Xml 而非 System.XML。Pascal 命名法的大小寫慣例是將每個字的第一個字母大寫，例如 BackColor。Camel 命名法的大小寫慣例則是將第一個字的第一個字母格式設為小寫，並將後續所有字的第一個字母大寫，例如 backgroundColor。雖然兩個字母的縮略字未完全大寫的情況十分常見，但不該因此而排除此規則。例如，'DbConnection' 雖常見，但並不正確，應該 DBConnection 才對。為了與現有的非受控符號配置相容，可能需要違反此規則，不過一般來說，在使用這些符號的組件外部看不到它們。</Description>
+   <Resolution Name="Member">將成員名稱 {1} 中的 '{0}' 變更成 '{2}'，藉此修正其大小寫。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182240.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="85">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707">
+   <Name>識別項名稱不應該包含底線</Name>
+   <Description>指定識別項時請勿使用底線。某些針對應用程式產生的 Visual Studio 識別項會包含底線字元。一般來說，在公用識別項中應該避免使用底線字元。</Description>
+   <Resolution Name="Member">移除成員名稱 {0} 中的底線。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182245.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>組件必須標記 CLSCompliantAttribute</Name>
+   <Description>組件應該使用 CLSCompliant 屬性明確陳述其 CLS 標準的合規性。沒有此屬性的組件即不符合 CLS 規範。即使組件、模組或類型的某些部分不符合 CLS 規範，該組件、模組和類型本身仍可符合 CLS 規範。下列為適用規則: 1) 如果項目標記成 CLSCompliant，則任何不符合規範的成員都必須擁有 CLSCompliant 屬性，且其引數設為 false。2) 針對每個不符合 CLS 規範的成員，均須提供相當於符合 CLS 規範的替代成員。</Description>
+   <Resolution Name="Default">以 CLSCompliant(true) 標記 {0}，因為它可以公開外部可見的類型。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182156.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="StaticHolderTypesShouldNotHaveConstructors" Category="Microsoft.Design" CheckId="CA1053">
+   <Name>靜態預留位置類型不應該包含建構函式</Name>
+   <Description>不需要建立僅定義靜態成員的類型執行個體。如果未指定任何建構函式，許多編譯器會自動加入公用預設建構函式。若要避免此情況，可能需要加入空的私用建構函式。</Description>
+   <Resolution Name="CSharp2_0">因為類型 {0} 只包含 'static' 成員，將它標記為 'static' 可防止編譯器加入預設的公用建構函式。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182169.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>不要將常值當做已當地語系化的參數傳遞</Name>
+   <Description>內嵌在原始程式碼中的常值字串不容易本地語系化。請避免在一般需要本地語系化字串的情況傳遞常值字串做為引數。</Description>
+   <Resolution Name="KnownValue">方法 {0} 在呼叫 {2} 時傳遞常值字串做為參數 '{1}'。改為從資源表格擷取下列字串: {3}。</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182187.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="16.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">分類</String>
+  <String Key="Certainty">確實性</String>
+  <String Key="CollapseAll">全部摺疊</String>
+  <String Key="CheckId">檢查 ID</String>
+  <String Key="Error">錯誤</String>
+  <String Key="Errors">錯誤</String>
+  <String Key="ExpandAll">全部展開</String>
+  <String Key="Help">說明</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">訊息</String>
+  <String Key="LocationNotStoredInPdb">[位置未儲存在 PDB]</String>
+  <String Key="Project">專案</String>
+  <String Key="Resolution">解析度</String>
+  <String Key="Rule">規則</String>
+  <String Key="RuleFile">規則檔</String>
+  <String Key="RuleDescription">規則說明</String>
+  <String Key="Source">來源</String>
+  <String Key="Status">狀態</String>
+  <String Key="Target">目標</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">Code Analysis 報告</String>
+ </Localized>
+</FxCopReport>

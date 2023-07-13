@@ -4,3 +4,5 @@ C:\Users\Howard\source\repos\ConsoleApp3\EventTest\bin\Debug\EventTest.pdb
 C:\Users\Howard\source\repos\ConsoleApp3\EventTest\obj\Debug\EventTest.csproj.CoreCompileInputs.cache
 C:\Users\Howard\source\repos\ConsoleApp3\EventTest\obj\Debug\EventTest.exe
 C:\Users\Howard\source\repos\ConsoleApp3\EventTest\obj\Debug\EventTest.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\EventTest\bin\Debug\EventTest.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\EventTest\bin\Debug\EventTest.exe.lastcodeanalysissucceeded

@@ -14,3 +14,5 @@ C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\Microsoft.Bcl.
 C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\System.Buffers.dll
 C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.exe.config
 C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\obj\Debug\SerializationB.csproj.CopyComplete
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\SerializationB.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\SerializationB\bin\Debug\SerializationB.exe.lastcodeanalysissucceeded

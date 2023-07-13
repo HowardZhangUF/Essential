@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Targets>
+  <Target Name="C:\Users\Howard\source\repos\ConsoleApp3\EventVt\bin\Debug\EventVt.exe">
+   <Modules>
+    <Module Name="eventvt.exe">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">以強式名稱金鑰簽署 'EventVt.exe'。</Issue>
+      </Message>
+      <Message Id="Vt" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="Breaking">
+       <Issue Name="Assembly" Certainty="85" Level="Error">將組件名稱 'EventVt.exe' 中的 'Vt' 變更成 'VT'，藉此修正其大小寫。</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Error">以 CLSCompliant(true) 標記 'EventVt.exe'，因為它可以公開外部可見的類型。</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="ConsoleApplication1">
+       <Types>
+        <Type Name="Program" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#c_ThresholdReached(System.Object,ConsoleApplication1.ThresholdReachedEventArgs)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Console.WriteLine(System.String,System.Object,System.Object)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Howard\source\repos\ConsoleApp3\EventVt" File="Program.cs" Line="33">方法 'Program.c_ThresholdReached(object, ThresholdReachedEventArgs)' 在呼叫 'Console.WriteLine(string, object, object)' 時傳遞常值字串做為參數 'format'。改為從資源表格擷取下列字串: "The threshold of {0} was reached at {1}."。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Main(System.String[])" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="args" TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\Howard\source\repos\ConsoleApp3\EventVt" File="Program.cs" Line="8">'Program.Main(string[])' 的參數 'args' 從未被使用。請移除這個參數或將它用在方法主體中。</Issue>
+            </Message>
+            <Message Id="System.Console.WriteLine(System.String)" TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2023-04-15 11:38:26Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Howard\source\repos\ConsoleApp3\EventVt" File="Program.cs" Line="19">方法 'Program.Main(string[])' 在呼叫 'Console.WriteLine(string)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "adding one"。</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Howard\source\repos\ConsoleApp3\EventVt" File="Program.cs" Line="16">方法 'Program.Main(string[])' 在呼叫 'Console.WriteLine(string)' 時傳遞常值字串做為參數 'value'。改為從資源表格擷取下列字串: "press \'a\' key to increase total"。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>組件應該具備有效的強式名稱</Name>
+   <Description>可能是組件不具有強式名稱、強式名稱無效，或是強式名稱視個別電腦的組態設定而生效。組件不應該部署為目前這種狀態。這樣的情況最常見的原因為: 1) 組件的內容於簽署後經過修改。2) 簽署程序失敗。3) 組件為延遲簽署。4) 已存在的登錄機碼允許檢查通過 (否則檢查不應通過)。</Description>
+   <Resolution Name="NoStrongName">以強式名稱金鑰簽署 {0}。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709">
+   <Name>識別項名稱應該使用正確的大小寫</Name>
+   <Description>類型、命名空間和成員識別項都是依照 Pascal 命名法的大小寫慣例。參數識別項則都是依照 Camel 命名法的大小寫慣例。這些識別項內兩個字母的縮略字應該使用大寫，例如應該使用 System.IO 而非 System.Io。三個字母以上的縮略字則應該依照 Pascal 命名法的大小寫慣例，例如應該使用 System.Xml 而非 System.XML。Pascal 命名法的大小寫慣例是將每個字的第一個字母大寫，例如 BackColor。Camel 命名法的大小寫慣例則是將第一個字的第一個字母格式設為小寫，並將後續所有字的第一個字母大寫，例如 backgroundColor。雖然兩個字母的縮略字未完全大寫的情況十分常見，但不該因此而排除此規則。例如，'DbConnection' 雖常見，但並不正確，應該 DBConnection 才對。為了與現有的非受控符號配置相容，可能需要違反此規則，不過一般來說，在使用這些符號的組件外部看不到它們。</Description>
+   <Resolution Name="Assembly">將組件名稱 {1} 中的 '{0}' 變更成 '{2}'，藉此修正其大小寫。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182240.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="85">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>組件必須標記 CLSCompliantAttribute</Name>
+   <Description>組件應該使用 CLSCompliant 屬性明確陳述其 CLS 標準的合規性。沒有此屬性的組件即不符合 CLS 規範。即使組件、模組或類型的某些部分不符合 CLS 規範，該組件、模組和類型本身仍可符合 CLS 規範。下列為適用規則: 1) 如果項目標記成 CLSCompliant，則任何不符合規範的成員都必須擁有 CLSCompliant 屬性，且其引數設為 false。2) 針對每個不符合 CLS 規範的成員，均須提供相當於符合 CLS 規範的替代成員。</Description>
+   <Resolution Name="Default">以 CLSCompliant(true) 標記 {0}，因為它可以公開外部可見的類型。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182156.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801">
+   <Name>必須檢閱未使用的參數</Name>
+   <Description>檢閱方法主體中未使用的非虛擬方法中的參數，確認沒有由於存取失敗而進行修正的情形。未使用的參數會造成維護和效能上的負擔。有時候，違反這項規則意味著方法中有實作錯誤 (也就是說參數實際上應該使用於方法主體中)。如果這些參數基於回溯相容性的緣故必須存在，請排除這項規則的警告。</Description>
+   <Resolution Name="Default">{1} 的參數 {0} 從未被使用。請移除這個參數或將它用在方法主體中。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182268.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="不要將常值當做已當地語系化的參數傳遞" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>不要將常值當做已當地語系化的參數傳遞</Name>
+   <Description>內嵌在原始程式碼中的常值字串不容易本地語系化。請避免在一般需要本地語系化字串的情況傳遞常值字串做為引數。</Description>
+   <Resolution Name="KnownValue">方法 {0} 在呼叫 {2} 時傳遞常值字串做為參數 '{1}'。改為從資源表格擷取下列字串: {3}。</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182187.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="16.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">分類</String>
+  <String Key="Certainty">確實性</String>
+  <String Key="CollapseAll">全部摺疊</String>
+  <String Key="CheckId">檢查 ID</String>
+  <String Key="Error">錯誤</String>
+  <String Key="Errors">錯誤</String>
+  <String Key="ExpandAll">全部展開</String>
+  <String Key="Help">說明</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">訊息</String>
+  <String Key="LocationNotStoredInPdb">[位置未儲存在 PDB]</String>
+  <String Key="Project">專案</String>
+  <String Key="Resolution">解析度</String>
+  <String Key="Rule">規則</String>
+  <String Key="RuleFile">規則檔</String>
+  <String Key="RuleDescription">規則說明</String>
+  <String Key="Source">來源</String>
+  <String Key="Status">狀態</String>
+  <String Key="Target">目標</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">Code Analysis 報告</String>
+ </Localized>
+</FxCopReport>

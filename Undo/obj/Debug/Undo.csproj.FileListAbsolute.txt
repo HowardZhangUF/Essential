@@ -1,0 +1,8 @@
+C:\Users\Howard\source\repos\ConsoleApp3\Undo\obj\Debug\Undo.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Undo\bin\Debug\Undo.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\Undo\bin\Debug\Undo.exe
+C:\Users\Howard\source\repos\ConsoleApp3\Undo\bin\Debug\Undo.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Undo\obj\Debug\Undo.exe
+C:\Users\Howard\source\repos\ConsoleApp3\Undo\obj\Debug\Undo.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Undo\bin\Debug\Undo.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\Undo\bin\Debug\Undo.exe.lastcodeanalysissucceeded

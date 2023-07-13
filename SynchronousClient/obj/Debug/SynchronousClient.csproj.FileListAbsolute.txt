@@ -1,0 +1,8 @@
+C:\Users\Howard\source\repos\ConsoleApp3\SynchronousClient\bin\Debug\SynchronousClient.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\SynchronousClient\bin\Debug\SynchronousClient.exe
+C:\Users\Howard\source\repos\ConsoleApp3\SynchronousClient\bin\Debug\SynchronousClient.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\SynchronousClient\obj\Debug\SynchronousClient.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\SynchronousClient\obj\Debug\SynchronousClient.exe
+C:\Users\Howard\source\repos\ConsoleApp3\SynchronousClient\obj\Debug\SynchronousClient.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\SynchronousClient\bin\Debug\SynchronousClient.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\SynchronousClient\bin\Debug\SynchronousClient.exe.lastcodeanalysissucceeded

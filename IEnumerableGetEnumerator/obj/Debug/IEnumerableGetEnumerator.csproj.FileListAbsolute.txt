@@ -5,3 +5,5 @@ C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\obj\Debug\IEnu
 C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\obj\Debug\IEnumerableGetEnumerator.csproj.CoreCompileInputs.cache
 C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\obj\Debug\IEnumerableGetEnumerator.exe
 C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\obj\Debug\IEnumerableGetEnumerator.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\bin\Debug\IEnumerableGetEnumerator.exe.CodeAnalysisLog.xml
+C:\Users\Howard\source\repos\ConsoleApp3\IEnumerableGetEnumerator\bin\Debug\IEnumerableGetEnumerator.exe.lastcodeanalysissucceeded
