@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\TryParse\bin\Debug\TryParse.exe
+C:\Users\Howard\source\repos\ConsoleApp3\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\TryParse\obj\Debug\TryParse.exe
+C:\Users\Howard\source\repos\ConsoleApp3\TryParse\obj\Debug\TryParse.pdb

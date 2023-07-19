@@ -1,0 +1,15 @@
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\bin\Debug\net7.0\Registering_for_Unhandled_Exceptions.exe
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\bin\Debug\net7.0\Registering_for_Unhandled_Exceptions.deps.json
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\bin\Debug\net7.0\Registering_for_Unhandled_Exceptions.runtimeconfig.json
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\bin\Debug\net7.0\Registering_for_Unhandled_Exceptions.dll
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\bin\Debug\net7.0\Registering_for_Unhandled_Exceptions.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\Registering_for_Unhandled_Exceptions.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\Registering_for_Unhandled_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\Registering_for_Unhandled_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\Registering_for_Unhandled_Exceptions.AssemblyInfo.cs
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\Registering_for_Unhandled_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\Registering_for_Unhandled_Exceptions.dll
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\refint\Registering_for_Unhandled_Exceptions.dll
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\Registering_for_Unhandled_Exceptions.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\Registering_for_Unhandled_Exceptions.genruntimeconfig.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Registering_for_Unhandled_Exceptions\obj\Debug\net7.0\ref\Registering_for_Unhandled_Exceptions.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Registering_for_Unhandled_Exceptions/1.0.0": {
+        "runtime": {
+          "Registering_for_Unhandled_Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Registering_for_Unhandled_Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

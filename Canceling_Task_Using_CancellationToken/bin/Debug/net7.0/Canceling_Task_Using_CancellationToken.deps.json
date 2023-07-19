@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Canceling_Task_Using_CancellationToken/1.0.0": {
+        "runtime": {
+          "Canceling_Task_Using_CancellationToken.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Canceling_Task_Using_CancellationToken/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

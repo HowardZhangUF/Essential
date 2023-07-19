@@ -1,0 +1,15 @@
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\bin\Debug\net7.0\antecedentTask.exe
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\bin\Debug\net7.0\antecedentTask.deps.json
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\bin\Debug\net7.0\antecedentTask.runtimeconfig.json
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\bin\Debug\net7.0\antecedentTask.dll
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\bin\Debug\net7.0\antecedentTask.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\antecedentTask.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\antecedentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\antecedentTask.AssemblyInfoInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\antecedentTask.AssemblyInfo.cs
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\antecedentTask.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\antecedentTask.dll
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\refint\antecedentTask.dll
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\antecedentTask.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\antecedentTask.genruntimeconfig.cache
+C:\Users\Howard\source\repos\ConsoleApp3\antecedentTask\obj\Debug\net7.0\ref\antecedentTask.dll

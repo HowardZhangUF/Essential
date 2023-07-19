@@ -1,0 +1,15 @@
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\bin\Debug\net7.0\Handling_a_Unhandled_Exception.exe
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\bin\Debug\net7.0\Handling_a_Unhandled_Exception.deps.json
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\bin\Debug\net7.0\Handling_a_Unhandled_Exception.runtimeconfig.json
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\bin\Debug\net7.0\Handling_a_Unhandled_Exception.dll
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\bin\Debug\net7.0\Handling_a_Unhandled_Exception.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\Handling_a_Unhandled_Exception.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\Handling_a_Unhandled_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\Handling_a_Unhandled_Exception.AssemblyInfoInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\Handling_a_Unhandled_Exception.AssemblyInfo.cs
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\Handling_a_Unhandled_Exception.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\Handling_a_Unhandled_Exception.dll
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\refint\Handling_a_Unhandled_Exception.dll
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\Handling_a_Unhandled_Exception.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\Handling_a_Unhandled_Exception.genruntimeconfig.cache
+C:\Users\Howard\source\repos\ConsoleApp3\Handling_a_Unhandled_Exception\obj\Debug\net7.0\ref\Handling_a_Unhandled_Exception.dll

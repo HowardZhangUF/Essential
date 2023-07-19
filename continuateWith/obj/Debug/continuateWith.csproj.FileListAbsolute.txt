@@ -1,0 +1,7 @@
+C:\Users\Howard\source\repos\ConsoleApp3\continuateWith\bin\Debug\continuateWith.exe.config
+C:\Users\Howard\source\repos\ConsoleApp3\continuateWith\bin\Debug\continuateWith.exe
+C:\Users\Howard\source\repos\ConsoleApp3\continuateWith\bin\Debug\continuateWith.pdb
+C:\Users\Howard\source\repos\ConsoleApp3\continuateWith\obj\Debug\continuateWith.csproj.AssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp3\continuateWith\obj\Debug\continuateWith.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp3\continuateWith\obj\Debug\continuateWith.exe
+C:\Users\Howard\source\repos\ConsoleApp3\continuateWith\obj\Debug\continuateWith.pdb
